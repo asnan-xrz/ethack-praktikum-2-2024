@@ -1,0 +1,31 @@
+# Nmap 7.94SVN scan initiated Tue May  7 23:00:22 2024 as: nmap -T4 --min-rate 10000 -sCV -p- -A -Pn -oN scan_7 10.15.42.7
+Nmap scan report for 10.15.42.7
+Host is up (0.0027s latency).
+Not shown: 32889 filtered tcp ports (no-response), 32644 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 9a:ed:52:a9:08:9d:71:6f:d1:24:8f:0b:4a:5b:7a:42 (RSA)
+|   256 00:9c:a8:13:91:9f:4f:74:fb:9e:15:a2:36:6b:c5:ba (ECDSA)
+|_  256 d7:55:ff:d7:95:e1:06:26:81:bc:f2:b4:b5:29:a9:37 (ED25519)
+80/tcp open  http    Apache httpd 2.4.59 ((Debian))
+| http-robots.txt: 1 disallowed entry 
+|_/wp-admin/
+|_http-generator: WordPress 6.5.2
+|_http-title: Hello World
+|_http-server-header: Apache/2.4.59 (Debian)
+Device type: bridge|general purpose|switch
+Running (JUST GUESSING): Oracle Virtualbox (95%), QEMU (91%), Bay Networks embedded (86%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:qemu:qemu cpe:/h:baynetworks:baystack_450
+Aggressive OS guesses: Oracle Virtualbox (95%), QEMU user mode network gateway (91%), Bay Networks BayStack 450 switch (software version 3.1.0.22) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 23/tcp)
+HOP RTT     ADDRESS
+1   1.19 ms 10.0.2.2
+2   --      10.15.42.7
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue May  7 23:02:41 2024 -- 1 IP address (1 host up) scanned in 139.15 seconds

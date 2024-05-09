@@ -1,0 +1,20 @@
+# Nmap 7.94SVN scan initiated Tue May  7 15:15:42 2024 as: nmap -sV -sC -oN nmaplog2.log 10.15.42.7
+Nmap scan report for 10.15.42.7
+Host is up (0.0019s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 9a:ed:52:a9:08:9d:71:6f:d1:24:8f:0b:4a:5b:7a:42 (RSA)
+|   256 00:9c:a8:13:91:9f:4f:74:fb:9e:15:a2:36:6b:c5:ba (ECDSA)
+|_  256 d7:55:ff:d7:95:e1:06:26:81:bc:f2:b4:b5:29:a9:37 (ED25519)
+80/tcp open  http    Apache httpd 2.4.59 ((Debian))
+| http-robots.txt: 1 disallowed entry 
+|_/wp-admin/
+|_http-title: Hello World
+|_http-generator: WordPress 6.5.2
+|_http-server-header: Apache/2.4.59 (Debian)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue May  7 15:15:58 2024 -- 1 IP address (1 host up) scanned in 16.61 seconds

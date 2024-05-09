@@ -1,0 +1,1794 @@
+# Nmap 7.94SVN scan initiated Tue May  7 15:53:16 2024 as: nmap -sT -p 21,22 -oN portLog.log 10.15.42.0/24
+Nmap scan report for 10.15.42.0
+Host is up (0.0022s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.1
+Host is up (0.00041s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.2
+Host is up (0.00039s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.3
+Host is up (0.0036s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.4
+Host is up (0.00036s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.5
+Host is up (0.00034s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.6
+Host is up (0.0035s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp open     ssh
+
+Nmap scan report for 10.15.42.7
+Host is up (0.0035s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp open     ssh
+
+Nmap scan report for 10.15.42.8
+Host is up (0.00032s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.9
+Host is up (0.00029s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.10
+Host is up (0.00027s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.11
+Host is up (0.0022s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.12
+Host is up (0.0021s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.13
+Host is up (0.00087s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.14
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.15
+Host is up (0.00096s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.16
+Host is up (0.00094s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.17
+Host is up (0.00091s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.18
+Host is up (0.00089s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.19
+Host is up (0.0021s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.20
+Host is up (0.00051s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.21
+Host is up (0.00050s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.22
+Host is up (0.00047s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.23
+Host is up (0.00061s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.24
+Host is up (0.00059s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.25
+Host is up (0.00056s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.26
+Host is up (0.00054s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.27
+Host is up (0.00052s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.28
+Host is up (0.0021s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.29
+Host is up (0.0020s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.30
+Host is up (0.00076s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.31
+Host is up (0.00088s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.32
+Host is up (0.00086s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.33
+Host is up (0.00083s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.34
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.35
+Host is up (0.00079s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.36
+Host is up (0.0036s latency).
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+22/tcp open  ssh
+
+Nmap scan report for 10.15.42.37
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.38
+Host is up (0.00092s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.39
+Host is up (0.00053s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.40
+Host is up (0.00050s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.41
+Host is up (0.00061s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.42
+Host is up (0.00059s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.43
+Host is up (0.00057s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.44
+Host is up (0.00055s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.45
+Host is up (0.00064s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.46
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.47
+Host is up (0.00051s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.48
+Host is up (0.00063s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.49
+Host is up (0.00060s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.50
+Host is up (0.00058s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.51
+Host is up (0.00056s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.52
+Host is up (0.00053s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.53
+Host is up (0.00096s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.54
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.55
+Host is up (0.00069s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.56
+Host is up (0.00091s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.57
+Host is up (0.00089s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.58
+Host is up (0.00086s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.59
+Host is up (0.00080s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.60
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.61
+Host is up (0.0100s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.62
+Host is up (0.00074s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.63
+Host is up (0.00072s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.64
+Host is up (0.00087s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.65
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.66
+Host is up (0.00051s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.67
+Host is up (0.00044s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.68
+Host is up (0.00038s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.69
+Host is up (0.00032s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.70
+Host is up (0.00043s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.71
+Host is up (0.00037s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.72
+Host is up (0.00082s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.73
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.74
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.75
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.76
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.77
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.78
+Host is up (0.00097s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.79
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.80
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.81
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.82
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.83
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.84
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.85
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.86
+Host is up (0.00082s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.87
+Host is up (0.00080s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.88
+Host is up (0.00078s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.89
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.90
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.91
+Host is up (0.00094s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.92
+Host is up (0.00089s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.93
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.94
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.95
+Host is up (0.00075s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.96
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.97
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.98
+Host is up (0.00073s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.99
+Host is up (0.00070s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.100
+Host is up (0.00066s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.101
+Host is up (0.00064s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.102
+Host is up (0.00072s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.103
+Host is up (0.00070s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.104
+Host is up (0.00085s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.105
+Host is up (0.00082s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.106
+Host is up (0.00096s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.107
+Host is up (0.00094s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.108
+Host is up (0.00092s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.109
+Host is up (0.00090s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.110
+Host is up (0.00087s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.111
+Host is up (0.00085s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.112
+Host is up (0.00083s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.113
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.114
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.115
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.116
+Host is up (0.00067s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.117
+Host is up (0.00068s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.118
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.119
+Host is up (0.00092s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.120
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.121
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.122
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.123
+Host is up (0.00098s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.124
+Host is up (0.00051s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.125
+Host is up (0.00048s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.126
+Host is up (0.00067s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.127
+Host is up (0.00056s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.128
+Host is up (0.00054s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.129
+Host is up (0.00073s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.130
+Host is up (0.00071s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.131
+Host is up (0.00069s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.132
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.133
+Host is up (0.00075s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.134
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.135
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.136
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.137
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.138
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.139
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.140
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.141
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.142
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.143
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.144
+Host is up (0.00073s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.145
+Host is up (0.00070s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.146
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.147
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.148
+Host is up (0.00067s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.149
+Host is up (0.00065s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.150
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.151
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.152
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.153
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.154
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.155
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.156
+Host is up (0.00063s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.157
+Host is up (0.00061s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.158
+Host is up (0.0019s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.159
+Host is up (0.0018s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.160
+Host is up (0.0020s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.161
+Host is up (0.0019s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.162
+Host is up (0.0019s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.163
+Host is up (0.0019s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.164
+Host is up (0.00061s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.165
+Host is up (0.00059s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.166
+Host is up (0.00079s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.167
+Host is up (0.00098s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.168
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.169
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.170
+Host is up (0.00090s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.171
+Host is up (0.00085s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.172
+Host is up (0.00083s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.173
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.174
+Host is up (0.00079s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.175
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.176
+Host is up (0.00056s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.177
+Host is up (0.00054s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.178
+Host is up (0.00034s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.179
+Host is up (0.00036s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.180
+Host is up (0.00052s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.181
+Host is up (0.00040s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.182
+Host is up (0.00079s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.183
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.184
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.185
+Host is up (0.00097s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.186
+Host is up (0.00094s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.187
+Host is up (0.00091s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.188
+Host is up (0.00046s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.189
+Host is up (0.00063s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.190
+Host is up (0.00089s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.191
+Host is up (0.00086s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.192
+Host is up (0.00083s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.193
+Host is up (0.00086s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.194
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.195
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.196
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.197
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.198
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.199
+Host is up (0.0013s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.200
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.201
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.202
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.203
+Host is up (0.00097s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.204
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.205
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.206
+Host is up (0.00097s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.207
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.208
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.209
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.210
+Host is up (0.00096s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.211
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.212
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.213
+Host is up (0.0011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.214
+Host is up (0.00088s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.215
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.216
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.217
+Host is up (0.00096s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.218
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.219
+Host is up (0.00090s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.220
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.221
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.222
+Host is up (0.00075s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.223
+Host is up (0.00073s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.224
+Host is up (0.00071s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.225
+Host is up (0.00069s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.226
+Host is up (0.00067s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.227
+Host is up (0.00064s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.228
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.229
+Host is up (0.0010s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.230
+Host is up (0.00080s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.231
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.232
+Host is up (0.00091s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.233
+Host is up (0.00088s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.234
+Host is up (0.00086s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.235
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.236
+Host is up (0.00082s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.237
+Host is up (0.00080s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.238
+Host is up (0.00078s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.239
+Host is up (0.00076s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.240
+Host is up (0.00077s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.241
+Host is up (0.00073s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.242
+Host is up (0.00081s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.243
+Host is up (0.00079s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.244
+Host is up (0.00070s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.245
+Host is up (0.00059s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.246
+Host is up (0.00099s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.247
+Host is up (0.00097s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.248
+Host is up (0.00095s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.249
+Host is up (0.00093s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.250
+Host is up (0.00091s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.251
+Host is up (0.00089s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.252
+Host is up (0.00056s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.253
+Host is up (0.00053s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.254
+Host is up (0.0023s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+Nmap scan report for 10.15.42.255
+Host is up (0.0023s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+22/tcp filtered ssh
+
+# Nmap done at Tue May  7 15:53:30 2024 -- 256 IP addresses (256 hosts up) scanned in 14.82 seconds
